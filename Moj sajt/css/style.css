@@ -1,0 +1,71 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+.top-container {
+    padding-top: 100px;
+    background-color: #FED8B1;
+    position: relative;
+}
+
+p{
+    font-family: 'Merriweather', cursive;
+    font-size: 20px;
+}
+.paragraf {
+    color:#cd8400;
+    font-size:35px; 
+    font-family: 'Merriweather', cursive;
+    font-weight: lighter;
+}
+h1 {
+    color:#cd8400;
+    margin-top:0;
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    margin:50px auto 0 auto;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 40px;
+    color:#cd8400;
+    font-family: 'Montserrat', sans-serif; 
+}
+h3 {
+    font-size: 25px;
+    color:#cd8400;
+    font-family: 'Montserrat', sans-serif; 
+}
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+.top-leaves {
+position: absolute;
+right: 180px;
+top: 10px;
+
+}
+.bottom-leaves {
+    position: absolute;
+    left: 160px;
+    top:200px;
+}
+
+.profilna {
+    border-radius: 45%;
+}
+.harmonika {
+    max-width: 20%;
+}
+.dizajnslika{
+    max-width:20%;
+}
